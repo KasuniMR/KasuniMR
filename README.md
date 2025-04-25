@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KasuniMR
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning C++ Language
+- 🌱 Ask me about Java, C++, C#, JavaScript
 - 💞️ I’m looking to collaborate on simple projects
 - 📫 How to reach me kasunirajapaksha.net@gmail.com
 
